@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1680682976 source:c:\users\emmanuel\documents\poei\c\gestionmemoireavance\affiche_tas.c
+	<stdio.h>
+	"affiche_tas.h"
+	<ctype.h>
+
+1680682194 c:\users\emmanuel\documents\poei\c\gestionmemoireavance\affiche_tas.h
+
+1680697522 source:c:\users\emmanuel\documents\poei\c\gestionmemoireavance\strategies.c
+	<stdlib.h>
+	<stdio.h>
+	"strategies.h"
+
+1680681755 c:\users\emmanuel\documents\poei\c\gestionmemoireavance\strategies.h
+	"affiche_tas.h"
+
+1680697359 source:c:\users\emmanuel\documents\poei\c\gestionmemoireavance\tas.c
+	"tas.h"
+
+1680689002 c:\users\emmanuel\documents\poei\c\gestionmemoireavance\tas.h
+	"affiche_tas.h"
+
+1680687659 source:c:\users\emmanuel\documents\poei\c\gestionmemoireavance\main.c
+	<stdio.h>
+	"affiche_tas.h"
+	"strategies.h"
+
+1680600526 source:c:\users\emmanuel\documents\poei\c\gestionmemoireavance\tests\test_main.c
+
